@@ -15,6 +15,7 @@ This patch allows you to decompress the BSA files when your Fallout New Vegas in
 2. Download [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) (or anything that can apply xdelta patch files)
 3. Download [patch.xdelta](https://github.com/FaithBeam/FNV-BSA-Decompressor-Patch/raw/refs/heads/master/patch.xdelta)
 4. Open Delta Patcher and select FNV BSA Decompressor.exe for the original file and patch.xdelta for the XDelta Patch
+   
    <img width="412" alt="Screenshot 2025-02-03 at 6 23 02 PM" src="https://github.com/user-attachments/assets/b99226cf-9eb3-4ecd-a29a-a770066bd8f5" />
-5. Click Apply Patch
-6. Run FNV BSA Decompressor.exe as admin and click decompress
+6. Click Apply Patch
+7. Run FNV BSA Decompressor.exe as admin and click decompress
