@@ -18,4 +18,4 @@ This patch allows you to decompress the BSA files when your Fallout New Vegas in
    
    <img width="412" alt="Screenshot 2025-02-03 at 6 23 02 PM" src="https://github.com/user-attachments/assets/b99226cf-9eb3-4ecd-a29a-a770066bd8f5" />
 6. Click Apply Patch
-7. Run FNV BSA Decompressor.exe as admin and click decompress
+7. Run FNV BSA Decompressor.exe click decompress
